@@ -1,4 +1,4 @@
-## goit-js-homework
+## goit-js-hw-photo-gallery
 
 # <img src="./src/images/photo_readme.png" width="35"> GoIT (Java Script) homework "Photo Gallery"
 
@@ -30,8 +30,9 @@ An image search app with lazy loading.
 ### Links
 
 - Source code repository URL:
-  [Github](https://github.com/basiacarvalho/goit-js-homework)
-- Live Site URL: [Live demo](https://basiacarvalho.github.io/goit-js-homework/)
+  [Github](https://github.com/basiacarvalho/goit-js-hw-photo-gallery)
+- Live Site URL:
+  [Live demo](https://basiacarvalho.github.io/goit-js-hw-photo-gallery/)
 
 ### Visuals
 
